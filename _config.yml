@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 做点喜欢的事情-Heboot
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "Heboot"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://heboot.com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Heboot"
+  email: heboot@126.com 
+  bio: "做点自己喜欢的事情,不慌不忙,不温不火"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
