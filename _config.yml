@@ -1,5 +1,5 @@
 # Site settings
-title: 做点喜欢的事情-Heboot
+title: 做点喜欢的事情,
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Heboot"  
@@ -10,7 +10,7 @@ url: "http://heboot.com"
 owner: 
   name: " Heboot"
   email: heboot@126.com 
-  bio: "做点自己喜欢的事情,不慌不忙,不温不火"
+  bio: "做点自己喜欢的事情,不急不躁,不温不火"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
