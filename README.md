@@ -2,21 +2,47 @@
 
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-##读立写生
+##Heboot
 
-我是陈素封，博客：[cnfeat.com](cnfeat.com)
+我是何博，博客：[heboot.com](heboot.com)
 
-每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
+###简介
 
-现在研习 **认知写作学** 。
+- 处女座 强迫症 完美主义
+- android开发
+- 游泳-蛙泳
+- 骑行
+- 坚持
 
-##坚信
+
+###关注：
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- 手机/互联网智能硬件
+- Android/iOS
+- 美食 and 美景 and 美女
+
+
+
+
+###Project：
+
+- [51扬招](http://heboot.com/blog/2015/05/22/a-24-chinese-fonts/)
+
+- [大众交通世博调度管理系统](http://heboot.com/blog/2015/05/01/affordance/)
+
+- [中国移动手机悦听](http://heboot.com/blog/2015/03/02/how-to-write/)
+
+- [康博物流贸易ERP管理系统](http://heboot.com/blog/2015/03/02/how-to-write/)
+
+
+###联系
+
+- [博客：www.heboot.com](www.heboot.com)
+
+- [微博@-Heboot](http://weibo.com/heboot)
+
+- [知乎@Heboot](http://www.zhihu.com/people/bo-he-28)
 
 
 
