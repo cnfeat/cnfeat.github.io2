@@ -1,17 +1,15 @@
 ﻿---
 layout: post
-title: [android基础]无脑学习Service
-date: 2015-09-05
+title: 无脑学习Service
+date: 2014-03-20
 categories: blog
-
-tags: [android]
+tags: [android,service]
 description: android service的简单总结。
 
-# [android基础]无脑学习Service
 
-标签（空格分隔）： android 
-关于Service的概念无需多扯,直接从code开始,首先是一个继承自Service的类:
 ---
+关于Service的概念无需多扯,直接从code开始,首先是一个继承自Service的类:
+
 startService 启动服务
 1.新建一个Service,这个Service里提供了一些播放器开始，暂停，停止的一些方法。。。。
 
