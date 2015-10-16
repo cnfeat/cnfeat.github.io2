@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 玩转 Issuea
+title: 玩转 Issue
 date: 2015-09-05
 categories: blog
 tags: [github,麦肯锡]
