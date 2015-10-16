@@ -9,9 +9,6 @@ description: android service的简单总结。
 # [android基础]无脑学习Service
 
 标签（空格分隔）： android 
-
----
-
 关于Service的概念无需多扯,直接从code开始,首先是一个继承自Service的类:
 
 startService 启动服务
@@ -97,7 +94,7 @@ startService 启动服务
 
 
 
-      private Button playBtn;  
+    private Button playBtn;  
     private Button stopBtn;  
     private Button pauseBtn;  
     private Button exitBtn;  
@@ -168,7 +165,7 @@ startService 启动服务
 
 布局文件:
 
-    <?xml version="1.0" encoding="utf-8"?>  
+<?xml version="1.0" encoding="utf-8"?>  
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
     android:layout_width="fill_parent"  
     android:layout_height="fill_parent"  
