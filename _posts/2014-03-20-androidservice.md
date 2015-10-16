@@ -98,7 +98,7 @@ startService 启动服务
 
 
 
-    private Button playBtn;  
+      private Button playBtn;  
     private Button stopBtn;  
     private Button pauseBtn;  
     private Button exitBtn;  
@@ -169,8 +169,8 @@ startService 启动服务
 
 布局文件:
 
-<?xml version="1.0" encoding="utf-8"?>  
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    <?xml version="1.0" encoding="utf-8"?>  
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
     android:layout_width="fill_parent"  
     android:layout_height="fill_parent"  
     android:orientation="vertical" >  
@@ -206,6 +206,8 @@ startService 启动服务
         android:text="@string/exit" />  
   
 </LinearLayout>  
+
+
 
 上面是使用startService的方式来启动Service,下面会介绍如何使用bindService的方式来启动,两者的方式有何区别以及为何使用,请点击：http://blog.csdn.net/nulladdress/article/details/21615329
 
@@ -261,5 +263,6 @@ startService 启动服务
         }  
     } 
     }  
+
 
 
