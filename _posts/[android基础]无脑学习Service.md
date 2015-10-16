@@ -1,4 +1,12 @@
-﻿# [android基础]无脑学习Service
+﻿---
+layout: post
+title: [android基础]无脑学习Service
+date: 2015-09-05
+categories: blog
+tags: [android]
+description: android service的简单总结。
+
+# [android基础]无脑学习Service
 
 标签（空格分隔）： android 
 
