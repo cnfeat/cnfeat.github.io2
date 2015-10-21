@@ -38,17 +38,6 @@ header-img: "img/green.jpg"
 
 - [博客：www.isolatedj.com](www.isolatedj.com)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [豆瓣](http://www.douban.com/people/pch1991/)
-
-- 公众号：cnfeat
-
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
-
 
 
 
