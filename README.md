@@ -2,7 +2,7 @@
 
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-##读立写生
+##Isolated Joker
 
 我是隔离君，博客：[isolatedj.com](isolatedj.com)
 
