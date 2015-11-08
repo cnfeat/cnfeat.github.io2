@@ -7,7 +7,7 @@ baseurl: ""
 url: ""  
 
 # About/contact
-  owner: "Joshua wu"
+owner:
   name: "Joshua wu"
   email: "wujian.mailbox@gmail.com"
   bio: ""
