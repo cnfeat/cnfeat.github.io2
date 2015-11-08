@@ -10,7 +10,7 @@ url: ""
   owner: "Joshua wu"
   name: "Joshua wu"
   email: "wujian.mailbox@gmail.com"
-  bio: "写就是写的报酬"
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: ""
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : 
   disqus :
-      short_name : cnfeat
+      short_name : 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
