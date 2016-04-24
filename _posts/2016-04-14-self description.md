@@ -3,7 +3,7 @@ layout: post
 title: 小传
 date: 2016-04-14
 categories: blog
-tags: [个人][反思]
+tags: [个人、反思]
 description: 思考，从写作开始
 ---
 
