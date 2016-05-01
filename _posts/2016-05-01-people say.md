@@ -3,7 +3,7 @@ layout: post
 title: 告白
 date: 2016-04-24
 categories: blog
-tags: [辞格，隐喻]
+tags: [反思]
 description: 思考，从写作开始
 ---
 
