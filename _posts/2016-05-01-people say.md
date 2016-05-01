@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 告白
+title: 随意侃侃
 date: 2016-04-24
 categories: blog
 tags: [反思]
