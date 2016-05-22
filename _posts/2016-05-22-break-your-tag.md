@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《打破自我标签》笔记
-date: 2016-04-14
+date: 2016-05-22
 categories: blog
 tags: [读书笔记]
 description: 思考，从写作开始
