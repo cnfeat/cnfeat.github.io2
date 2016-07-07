@@ -7,7 +7,7 @@ tags: [技术]
 description: 思考，从写作开始
 ---
 
-缘起近来用debian系统内置python两个版本，默认是python2.7，但python3已是趋势，所以想将3设为默认。
+缘起于近来用debian，系统内置python两个版本，默认是python2.7，但python3已是趋势，所以想将3设为默认。
 
 首先，运行ls命令找出python所在所有路径：
 
