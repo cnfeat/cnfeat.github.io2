@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="https://images.unsplash.com/photo-1456318019777-ccdc4d5b2396?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=492cfe578dbef84edfd66c0dc536ffde" align="center"></p>
 </center>
 
-乔书亚为joshua音译，意梵是我另一个id，当然这些都不重要。我的第一个blog，用文字作needle，思绪如散乱无序的毛线的时候，以其贯穿其中，也许会有惊喜诞生。
+名号dumbWell, 小名杜威廉，追求理性，感性却作为人生第一驱动力。我的第一个blog，用文字作needle，思绪如散乱无序的毛线的时候，以其贯穿其中，也许会有惊喜诞生。
 
 现在研习 **心智 and 编程 and 文学 or maybe more** 。
 
