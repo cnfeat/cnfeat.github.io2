@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn more study less
+title: Be True to thyself
 date: 2016-10-19
 categories: blog
 tags: [思考]
