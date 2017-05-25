@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
-header-img: "img/Xacebook.jpg"
+title: WookChang
+header-img: "img/pool.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "荒漠绿洲"  
 baseurl: ""
 url: "http://www.cnfeat.com"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " WookChang"
+  email: WookChangX@gmail.com
+  bio: "昔我往矣，杨柳依依"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
