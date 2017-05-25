@@ -1,6 +1,10 @@
 # Site settings
 title: WookChang
+<<<<<<< HEAD
 header-img: "img/pool.jpg"
+=======
+header-img: "img/book.jpg"
+>>>>>>> 0487df74d5d924e241e7fc58f03f800b45b69e77
 tagline: "cn"  
 description: "荒漠绿洲"  
 baseurl: ""
