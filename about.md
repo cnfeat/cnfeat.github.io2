@@ -33,6 +33,7 @@ header-img: "img/green.jpg"
 
 ## 工作
 
+
 - 2022 年，持续写作、持续教育、持续创造
 - 2021 年，成立笨方法实验室，继续折腾意义
 - 2019 年，加入英德华粤教育，奔走珠三角各学校
@@ -56,8 +57,8 @@ header-img: "img/green.jpg"
 ## 联系
 
 
-邮箱：cnfeat[@gmail.com ](/gmail.com )
-微信：hardwaylab
+- 邮箱：cnfeat[@gmail.com ](/gmail.com )
+- 微信：hardwaylab
 
 
 ### ChangeLog
