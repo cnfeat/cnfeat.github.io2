@@ -1,11 +1,13 @@
 ---
 layout: post
-title: 小报童《笨方法小报》: 怎样办一份「报纸」？
+title: 小报童: 怎样办一份「报纸」？
 date: 2021-12-05
 categories: blog
 tags: [读书,卡片]
 description: 读书是一项「对重要内容进行提炼的工序」。
 ---
+
+
 
 *我常思考这 6 个问题。**
 
