@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小报童：怎么办一份报纸？
+title: 《小报童》怎么办一份报纸？
 date: 2021-12-05
 categories: blog
 tags: [读书,卡片]
