@@ -8,11 +8,29 @@ header-img: "img/green.jpg"
 
 ## 陈素封
 
-曾先后在东莞、珠海、北京工作，现居广东[英德](https://www.douban.com/photos/album/1877276165/?m_start=0)​
 
-- **写作者：**持续写作超过 10 年
-- **经营者：**有个小公司，有个小组织[「笨方法实验室」](https://www.yuque.com/hardwaylab/book/bq5a1v)​
-- **教育者：**终身[《笨方法文化手册》](https://www.yuque.com/hardwaylab/book)布道者
+
+我是陈素封，[笨方法实验室](https://www.yuque.com/hardwaylab/book)创始人，践行：世上无难事，只怕笨方法。
+
+写过 10000+ 张纸质卡片，是我的第一生产力工具
+用纸质卡片写出过以下作品：
+
+- 代表作：10 万字[《笨方法文化手册》](https://www.yuque.com/hardwaylab/book)，免费在线阅读
+- 代表产品：[《笨方法学写作》](https://www.yuque.com/hardwaylab/book/luvhdr)和[《个人生产力发展指南》](https://www.yuque.com/hardwaylab/book/gizm18)
+
+
+我会维护更新已有身份，启用新身份，多用这个身份去理解、去相信、去实践未来的事情，不再将自己的身份限制在原来的领域，用这个身份提问、探索、尝试，多做一些与自我标签风马牛不相及的事情，以此回应自己的年度关键词「好奇」。我的所长，并不是天赋决定的，也不是别人的认同决定的，而是与我的好奇决定的。
+
+以下身份循序渐进，交叉组合，可以让我拥有更多的工作与生活的自主权，实现可能自我。
+
+- **写作者：**博客写作 8+ 年，每周写 2 封信《[笨方法实验室来信](https://www.yuque.com/hardwaylab/book/un3dbf)》
+- **经营者：**[「笨方法实验室」](https://www.yuque.com/hardwaylab/book/bq5a1v)创始人，青贝科技创始人
+- **教育者：**[《笨方法文化手册》](https://www.yuque.com/hardwaylab/book)布道者、《笨方法学写作》作者
+- **阅读者：**每年读书 60+ 本，正在更新[《笨方法读书手册》](https://www.yuque.com/hardwaylab/read)
+- **创造者：**正在连载《笨方法小报》、《个人生产力发展指南》
+- **诗人：**没有出过诗集，但仍在[写诗歌](https://www.yuque.com/cnfeat/xd2gnc)
+- **玩家：**玩人生无限游戏，也玩王者荣耀
+
 
 更多信息请看：[陈素封使用说明书 V3.5](https://www.yuque.com/hardwaylab/hbcnfeat/fpu2rg)
 
@@ -26,21 +44,13 @@ header-img: "img/green.jpg"
 - 😊 博客：[https://www.cnfeat.com/archive/](https://www.cnfeat.com/archive/)
 - 💡 推特：[https://twitter.com/feat](https://twitter.com/feat)
 - 📗 豆瓣：[https://www.douban.com/people/cnfeat/](https://www.douban.com/people/cnfeat/)
-- ✍️ 小报童：[https://xiaobot.net/p/hardwaylab](https://xiaobot.net/p/hardwaylab)
 - 🟡 即刻：[https://okjk.co/hefS9p](https://okjk.co/hefS9p)
 - 🟢 公众号：笨方法实验室
 
 
-![](https://s3.bmp.ovh/imgs/2022/11/01/1647b9323815c0a7.jpg)
+![](https://s3.bmp.ovh/imgs/2022/11/11/1647b9323815c0a7.jpg)
 
 
-📙 代表作《笨方法文化手册》
-6万+字，162页，2年+积累，各版本已有10000+人领取阅读
-领取方法：https://mp.weixin.qq.com/s/aiDvXEvS9NxnJfQWTu-bYw
-
-​
-
-- [好物清单](https://github.com/cnfeat/GoodThingList)
 
 详情查看：[笨方法实验室产品一览](https://www.yuque.com/hardwaylab/book/qi5c2u)
 
@@ -71,11 +81,15 @@ header-img: "img/green.jpg"
 
 
 - 邮箱：cnfeat[@gmail.com ](/gmail.com )
-- 微信：hardwaylab
+
+微信
+
+![](https://s3.bmp.ovh/imgs/2022/11/11/490fda305d26d731.jpg)
 
 
 ### ChangeLog
 
+- 2022-11-11 修订介绍
 - 2022-02-28 增加产品链接
 - 2022-01-06 重新修订，迁移到语雀，同步在博客
 - 2020-11-26 更新页面
