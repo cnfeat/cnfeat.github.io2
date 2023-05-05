@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 社会资本的基本
-date: 2012-02-14
+date: 2022-01-06
 tags: [读书,卡片]
 description: 世上无难事，只怕笨方法。
 ---
